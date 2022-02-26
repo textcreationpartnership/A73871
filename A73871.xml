@@ -1,0 +1,577 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Teares on the death of Moeliades</title>
+            <author>Drummond, William, 1585-1649.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1614</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73871</idno>
+            <idno type="STC">STC 7259</idno>
+            <idno type="STC">ESTC S121641</idno>
+            <idno type="EEBO-CITATION">99856812</idno>
+            <idno type="PROQUEST">99856812</idno>
+            <idno type="VID">178349</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73871)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178349)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1601:16b or 2040:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Teares on the death of Moeliades</title>
+                  <author>Drummond, William, 1585-1649.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The third edition.</edition>
+               </editionStmt>
+               <extent>[16] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andro Hart,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1614.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: William Drummond.</note>
+                  <note>Another issue, with title reimposed, omitting Drummond's name, of STC 7257.</note>
+                  <note>Signatures: A-B⁴.</note>
+                  <note>Item at reel 1601:16 bound with STC 7254: Drummond, William.  Poems. Located between the two sections of STC 7254.</note>
+                  <note>Reproductions of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:178349:1"/>
+            <pb facs="tcp:178349:1"/>
+            <p>TEARES ON THE DEATH OF MOELIADES.</p>
+            <p>
+               <hi>The third Edition.</hi>
+            </p>
+            <p>EDINBVRGH Printed by Andro Hart. 1614</p>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:178349:2"/>
+            <head>To the Author.</head>
+            <l>IN Wanes of <hi>Woe</hi> thy Sighes my Soule doe toſſe,</l>
+            <l>And doe burſt vp the Conduits of my Teares,</l>
+            <l>Whoſe ranckling Wound no ſmoothing Baume long beares,</l>
+            <l>But freſhly bleedes when Ought vpbraides my Loſſe.</l>
+            <l>Then thou ſo ſweetly <hi>Sorrow</hi> makes to ſing,</l>
+            <l>And troubled Paſsions doſt ſo well accord,</l>
+            <l>That more Delight Thy <hi>Anguiſh</hi> doth afford,</l>
+            <l>Then Others <hi>Ioyes</hi> can Satisfaction bring.</l>
+            <l>What ſacred Wits (when rauiſh'd) doe affect,</l>
+            <l>To force Affections, Metamorphoſe Minds,</l>
+            <l>Whilſt numbrous Power the Soule in ſecret binds,</l>
+            <l>Thou haſt perform'd, transforming in Effect.</l>
+            <l>For neuer Plaints did greater Pittie moue,</l>
+            <l>The beſt Applauſe that can ſuch Notes approue.</l>
+            <closer>
+               <signed>S<hi rend="sup">r</hi>. W. ALEXANDER.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:178349:2"/>
+            <head>
+               <hi>TEARES</hi> ON THE DEATH of MOELIADES.</head>
+            <lg>
+               <l>
+                  <hi>
+                     <seg rend="decorInit">O</seg> Heauens!</hi> then is it true that Thou art gone,</l>
+               <l>And left this woefull <hi>Ile</hi> her Loſſe to mone,</l>
+               <l>
+                  <hi>Moeliades,</hi> bright <hi>Day-starre</hi> of the
+<hi>Weſt,</hi>
+               </l>
+               <l>A <hi>Comet</hi> blazing Terrour to the <hi>Eaſt:</hi>
+               </l>
+               <l>And neither that thy <hi>Spirit</hi> ſo heauenly wiſe</l>
+               <l>Nor <hi>Bodie</hi> (though of <hi>Earth</hi>) more pure then
+<hi>Skies,</hi>
+               </l>
+               <l>Nor royall <hi>Stemme,</hi> nor thy ſweet tender
+<hi>Age,</hi>
+               </l>
+               <l>Of cruell <hi>Destinies</hi> could quenſh the
+<hi>Rage?</hi>
+               </l>
+               <l>O fading <hi>Hopes!</hi> O ſhort-while-laſting
+<hi>Ioy,</hi>
+               </l>
+               <l>Of Earth-borne man, that one <hi>Houre</hi> can deſtroy!</l>
+               <l>Then euen of <hi>Vertues</hi> Spoyles <hi>Death</hi> Trophees reares,</l>
+               <l>As if he gloried moſt in many Teares.</l>
+               <l>Forc'd by hard <hi>Fates,</hi> doe <hi>Heauens</hi> neglect our Cryes?</l>
+               <l>Are <hi>Starres</hi> ſet only to act <hi>Tragedies?</hi>
+               </l>
+               <l>And let them doe their <hi>Worſt</hi> ſince thou art gone,</l>
+               <l>Raiſe whom they liſt to Thrones, enthron'd dethrone,</l>
+               <l>Staine Princely <hi>Bowres</hi> with Blood, and euen to
+<hi>Gange,</hi>
+               </l>
+               <l>In <hi>Cypreſſe</hi> ſad, glad <hi>Hymens Torches</hi> change.</l>
+               <l>
+                  <hi>Ah</hi> thou haſt left to liue, and in the Time,</l>
+               <l>When ſcarſe thou bloſſom'd in thy pleaſant Prime.</l>
+               <l>So falls by Northern Blaſt a virgin <hi>Roſe,</hi>
+               </l>
+               <l>At halfe that doth her baſhfull Boſome cloſe:</l>
+               <l>So a ſweet <hi>Flouriſh</hi> languiſhing decayes,</l>
+               <l>That late did bluſh when kiſt by <hi>Phoebus</hi> Rayes.</l>
+               <pb facs="tcp:178349:3"/>
+               <l>So <hi>Phoebus</hi> mounting the <hi>Meridians</hi> hight,</l>
+               <l>Choak't by pale <hi>Phoebe,</hi> faints vnto our Sight,</l>
+               <l>Aſtoniſh'd <hi>Nature</hi> ſullen ſtands to ſee,</l>
+               <l>The <hi>Life</hi> of all this <hi>All,</hi> ſo chang'd to be,</l>
+               <l>In gloomie Gownes the <hi>Starres</hi> about deplore,</l>
+               <l>The <hi>Sea</hi> with murmuring Mountaines beates the Shore,</l>
+               <l>Blacke <hi>Darkeneſſe</hi> reeles o're all, in thouſand Showres</l>
+               <l>The weeping <hi>Aire,</hi> on <hi>Earth</hi> her ſorrow povres,</l>
+               <l>That in a Palſey, quakes to ſee ſo ſoone</l>
+               <l>Her <hi>Louer</hi> ſet, and <hi>Night</hi> burſt forth ere
+<hi>Noone.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>If <hi>Heauen (alas)</hi> ordain'd thee yong to die,</l>
+               <l>Why was't not where thou mightſt thy <hi>Valour</hi> trie?</l>
+               <l>And to the wondring <hi>World</hi> at leaſt ſet forth</l>
+               <l>Some litle Sparke of thy exſpected <hi>Worth?</hi>
+               </l>
+               <l>
+                  <hi>Moeliades,</hi> O that by <hi>Isters</hi> Streames,</l>
+               <l>Mong ſounding Trumpets, fierie twinkling Gleames</l>
+               <l>Of warme vermilion Swords, and Cannons Roare,</l>
+               <l>Balls thicke as Raine pour'd by the <hi>Caſpian</hi> Shore,</l>
+               <l>Mong broken Speares, mong ringing Helmes &amp; Shields,</l>
+               <l>Huge heapes of ſlaughtred Bodies long the Fields,</l>
+               <l>In <hi>Turkiſh blood</hi> made red like <hi>Marſes Starre,</hi>
+               </l>
+               <l>Thou ended had thy Life, and Chriſtian Warre:</l>
+               <l>Or as braue <hi>Burbon</hi> thou had made old
+<hi>Rome,</hi>
+               </l>
+               <l>
+                  <hi>Queene of the World,</hi> thy Triumph, and thy Tombe.</l>
+               <l>So <hi>Heauens</hi> fair Face to Th'vnborne <hi>World</hi> which reeds,</l>
+               <l>A Booke had beene of thy illuſtrous Deeds.</l>
+               <l>So to their Nephewes aged Syres had tolde</l>
+               <l>The high Exploits perform'd by thee of olde;</l>
+               <l>Townes raz'd, and raiſ'd, victorious, vanquiſh'd Bands,</l>
+               <l>Fierce Tyrants flying, foyl'd, kill'd by thy Hands.</l>
+               <pb facs="tcp:178349:3"/>
+               <l>And in deare <hi>Arras,</hi> Virgins faire had wrought</l>
+               <l>The Bayes and Trophees to thy <hi>Countrie</hi> brought:</l>
+               <l>While ſome New <hi>Homer</hi> imping Wings to
+<hi>Fame,</hi>
+               </l>
+               <l>Deafe <hi>Nilus</hi> dwellers had made heare thy Name.</l>
+               <l>That thou did not attaine theſe <hi>Honours Spheares,</hi>
+               </l>
+               <l>Through want of <hi>Worth</hi> it was not, but of
+<hi>Yeares.</hi>
+               </l>
+               <l>A Youth more braue, pale <hi>Troy</hi> with trembling Walls</l>
+               <l>Did neuer ſoe, nor <hi>She</hi> whoſe <hi>Name</hi> appalls</l>
+               <l>Both <hi>Titans</hi> golden <hi>Bowres,</hi> in bloody Fights,</l>
+               <l>Muſtring on <hi>Marſes</hi> Field, ſuch <hi>Marſe</hi> like Knights.</l>
+               <l>The <hi>Heauens</hi> had brought thee to the higheſt Hight,</l>
+               <l>Of Wit and Courage, ſhewing all their Might</l>
+               <l>When they thee fram'd. <hi>Ay me</hi> that what is braue</l>
+               <l>On <hi>Earth,</hi> they as their owne ſo ſoone ſhould craue.</l>
+               <l>
+                  <hi>Moeliades</hi> ſweet courtly <hi>Nymphes</hi> deplore,</l>
+               <l>From <hi>Thule,</hi> to <hi>Hydaſpes</hi> pearlie Shore.</l>
+            </lg>
+            <lg>
+               <l>When <hi>Forth</hi> thy Nurſe, <hi>Forth</hi> where thou firſt did paſſe</l>
+               <l>Thy tender Dayes (who ſmylde oft on her Glaſſe,</l>
+               <l>To ſee thee gaze) <hi>Meandring</hi> with her Streames,</l>
+               <l>Heard thou had left this <hi>Round,</hi> from <hi>Phoebus</hi> Beames</l>
+               <l>She ſought to ſlie, but forced to returne</l>
+               <l>By <hi>Neighbour Brookes,</hi> She gaue her ſelfe to mourne:</l>
+               <l>And as She ruſh't her <hi>Cyclades</hi> among.</l>
+               <l>She ſeem'd to plaine, that <hi>Heauen</hi> had done her wrong.</l>
+               <l>With a hoarſe plaint, <hi>Cleyd</hi> down her ſteeppie rockes,</l>
+               <l>And <hi>Tweid</hi> through her greene Mountaines clad with flocks,</l>
+               <l>Did wound the <hi>Ocean</hi> murmuring thy death,</l>
+               <l>The <hi>Ocean</hi> that roard about the <hi>Earth,</hi>
+               </l>
+               <l>And to the <hi>Mauritanian Atlas</hi> tolde,</l>
+               <l>Who ſhrunke through griefe, and down his white haires rold</l>
+               <pb facs="tcp:178349:4"/>
+               <l>Huge Streames of teares, which changed were in Floods</l>
+               <l>Wherewith he drown'd the neighbour Plains &amp; Woods.</l>
+               <l>The leſſer <hi>Brookes</hi> as they did bubling goe,</l>
+               <l>Did keepe a <hi>Conſort</hi> vnto publicke <hi>Woe.</hi>
+               </l>
+               <l>The Shepheards left their Flocks with downe-caſt Eyes,</l>
+               <l>Sdaining to looke vp to the angrie <hi>Skies:</hi>
+               </l>
+               <l>Some brake their Pipes, and ſome in ſweet-ſad Layes,</l>
+               <l>Made ſenſeleſſe things amazed at thy Praiſe.</l>
+               <l>His Reed <hi>Alexis</hi> hang vpon a <hi>Tree,</hi>
+               </l>
+               <l>And with his Teares made <hi>Doven</hi> great to be.</l>
+               <l>
+                  <hi>Moeliades</hi> ſweet courtly <hi>Nymphes</hi> deplore</l>
+               <l>From <hi>Thule,</hi> to <hi>Hydaſpes</hi> pearelie Shore.</l>
+            </lg>
+            <lg>
+               <l>Chaſt <hi>Maides</hi> which haunt faire <hi>Aganippe Well,</hi>
+               </l>
+               <l>And you in <hi>Tempes</hi> ſacred <hi>Shade</hi> who dwell,</l>
+               <l>Let fall your Harpes, ceaſe Tunes of Ioy to ſing,</l>
+               <l>Diſcheueled make all <hi>Parnaſſus</hi> ring</l>
+               <l>With <hi>Antheames</hi> ſad, thy Muſicke <hi>Phoebus</hi> turne</l>
+               <l>In dolefull plaints, whilſt <hi>Ioy</hi> it ſelfe doth mourne.</l>
+               <l>Dead is thy <hi>Darling</hi> who decor'd thy Bayes,</l>
+               <l>Who oft was wont to cheriſh thy ſweet Layes,</l>
+               <l>And to a <hi>Trumpet</hi> raiſe thy amorous
+<hi>Stile,</hi>
+               </l>
+               <l>That floting <hi>Delos</hi> enuied might this
+<hi>Ile.</hi>
+               </l>
+               <l>You <hi>Acidalian</hi> Archers breake your Bowes,</l>
+               <l>Your Bra<g ref="char:cmbAbbrStroke">̄</g>dons quench, with teares blot <hi>Beauties</hi> Snowes,</l>
+               <l>And bid your weeping <hi>Mother</hi> yet againe</l>
+               <l>A ſecond <hi>Adons</hi> death, nay <hi>Marſes</hi> plaine.</l>
+               <l>His <hi>Eyes</hi> once were your <hi>Darts,</hi> nay euen his
+<hi>Name,</hi>
+               </l>
+               <l>Where euer heard, did euery <hi>Heart</hi> inflame.</l>
+               <l>
+                  <hi>Tagus</hi> did court his <hi>Loue,</hi> with <hi>Golden Streames,</hi>
+               </l>
+               <l>
+                  <hi>Rhein</hi> with his <hi>Townes,</hi> faire <hi>Seine</hi> with <hi>all ſhe claimes.</hi>
+               </l>
+               <pb facs="tcp:178349:4"/>
+               <l>But <hi>ah</hi> (poore I ouers) <hi>Death</hi> them did betray,</l>
+               <l>And not ſuſpected made their <hi>Hopes</hi> his
+<hi>Prey!</hi>
+               </l>
+               <l>
+                  <hi>Tagus</hi> bewailes his <hi>Loſſe,</hi> with
+<hi>Golden Streames,</hi>
+               </l>
+               <l>
+                  <hi>Rhein</hi> with his <hi>Townes,</hi> faire <hi>Scine</hi> with <hi>all She claimes.</hi>
+               </l>
+               <l>
+                  <hi>Moeliades</hi> ſweet courtly <hi>Nymphes</hi> deplore,</l>
+               <l>From <hi>Thule,</hi> to <hi>Hydaſpes</hi> pearlie Shore.</l>
+            </lg>
+            <lg>
+               <l>Eye-pleaſing <hi>Meads</hi> whoſe painted <hi>Plaine</hi> forth brings,</l>
+               <l>White, golden, azure Flowres, which once were Kings,</l>
+               <l>In mourning <hi>Blacke,</hi> their <hi>ſhyning Colours</hi> Dye,</l>
+               <l>Bow down their Heads, whiles ſighing <hi>Zephyrs</hi> flye.</l>
+               <l>Queene of the Fields, whoſe Bluſh, maks bluſh the
+<hi>Morne</hi>
+               </l>
+               <l>Sweet <hi>Roſe,</hi> a Princes Death in <hi>Purple</hi> mourne.</l>
+               <l>O <hi>Hyacinthes</hi> for ay, your <hi>AI</hi> keepe ſtill,</l>
+               <l>Nay, with moe markes of <hi>Woe</hi> your Leaues now fill.</l>
+               <l>And you O <hi>Flowre</hi> of <hi>Helens</hi> teares that's borne,</l>
+               <l>Into theſe liquid <hi>Pearles</hi> againe you turne.</l>
+               <l>Your greene Lockes <hi>Forrests</hi> cut, in weeping
+<hi>Mirres,</hi>
+               </l>
+               <l>The deadly <hi>Cypreſſe,</hi> and Inke-dropping
+<hi>Firres,</hi>
+               </l>
+               <l>Your <hi>Palmes</hi> and <hi>Mirtles</hi> change; from Shadowes darke</l>
+               <l>Wing'd <hi>Syrens</hi> waile, and you ſad <hi>Echoes</hi> marke</l>
+               <l>The lamentable Accents of their Mone,</l>
+               <l>And plaine that braue <hi>Moeliades</hi> is gone.</l>
+               <l>Stay <hi>Skye</hi> thy turning Courſe, and now become</l>
+               <l>A ſtately <hi>Arche,</hi> vnto the <hi>Earth</hi> his Tombe:</l>
+               <l>Ouer which ay the watrie <hi>Iris</hi> keepe,</l>
+               <l>And ſad <hi>Electras</hi> Siſters which ſtill weepe,</l>
+               <l>
+                  <hi>Moeliades</hi> ſweet courtly <hi>Nymphes</hi> deplore,</l>
+               <l>From <hi>Thule,</hi> to <hi>Hydaſpes</hi> pearlie Shore.</l>
+            </lg>
+            <lg>
+               <l>Deare <hi>Ghoſt</hi> forgiue theſe our vntimely Teares,</l>
+               <l>By which our louing Mind, though weake appeares</l>
+               <pb facs="tcp:178349:5"/>
+               <l>Our Loſſe not Thine (when we complaine) we weepe,</l>
+               <l>For Thee the gliſtring Walls of <hi>Heauen</hi> doe keepe,</l>
+               <l>Beyond the <hi>Planets</hi> Wheeles, boue higheſt Source</l>
+               <l>Of Spheares, that turnes the lower in his Courſe.</l>
+               <l>Where <hi>Sunne</hi> doth neuer ſet, nor vgly
+<hi>Night</hi>
+               </l>
+               <l>Euer appeares in mourning Garments dight:</l>
+               <l>Where <hi>Borcas</hi> ſtormie Trumpet doth not ſound,</l>
+               <l>Nor Cloudes in Lightnings burſting, Minds aſtound.</l>
+               <l>From <hi>Cares</hi> cold Climates farre, and hote
+<hi>Deſire,</hi>
+               </l>
+               <l>Where <hi>Time</hi>'s exild, and <hi>Ages</hi> ne're expire:</l>
+               <l>Mong pureſt Spirits enuironed with Beames,</l>
+               <l>Thou thinks all things below, t'haue bene but Dreames;</l>
+               <l>And ioyes to looke downe to the azur'd Barres</l>
+               <l>Of <hi>Heauen,</hi> powdred with Troupes of ſtreaming
+<hi>Starres:</hi>
+               </l>
+               <l>And in their turning <hi>Temples</hi> to behold,</l>
+               <l>In ſiluer Robe the <hi>Moone,</hi> the <hi>Sunne</hi> in Golde,</l>
+               <l>Like yong Eye-ſpeaking <hi>Louers</hi> in a Dance,</l>
+               <l>With Majeſtie by Turnes retire, aduance.</l>
+               <l>Thou wonders <hi>Earth</hi> to ſee hang like a Ball,</l>
+               <l>Cloſ'd in the ghaiſtly <hi>Cloyster</hi> of this
+<hi>All:</hi>
+               </l>
+               <l>And that poore <hi>Men</hi> ſhould proue ſo madly fond,</l>
+               <l>To toſſe themſelues for a ſmall Foot of Ground.</l>
+               <l>Nay, that they euen dare braue the <hi>Powers</hi> aboue,</l>
+               <l>From this baſe <hi>Stage</hi> of Change, that cannot moue.</l>
+               <l>All worldly Pompe, and Pride thou ſeeſt ariſe</l>
+               <l>Like Smoake that's ſcattred in the emptie Skies.</l>
+               <l>Other <hi>Hills</hi> and <hi>Forreſts</hi> other ſumptuous
+<hi>Towres,</hi>
+               </l>
+               <l>Amaz'd thou finds excelling our poore Bowres,</l>
+               <l>
+                  <hi>Courts</hi> voyde of Flatterie, of Malice
+<hi>Mindes,</hi>
+               </l>
+               <l>
+                  <hi>Pleaſure</hi> which laſts, not ſuch as
+<hi>Reaſon</hi> blinds.</l>
+               <pb facs="tcp:178349:5"/>
+               <l>More ſweeter Songs thou heares and Carrolings,</l>
+               <l>Whilſt <hi>Heauens</hi> do dance, and <hi>Quire</hi> of
+<hi>Angells</hi> ſings,</l>
+               <l>Then moldie <hi>Mindes</hi> could faine, euen our
+<hi>Annoy</hi>
+               </l>
+               <l>(If it approach that Place) is chang'd in Ioy.</l>
+            </lg>
+            <lg>
+               <l>Reſt bleſſed <hi>Spirit,</hi> reſt ſaciat with the Sight</l>
+               <l>Of Him whoſe Beames (though dazeling) do delight,</l>
+               <l>
+                  <hi>Life</hi> of all liues, <hi>Cauſe</hi> of each other cauſe,</l>
+               <l>The <hi>Spheare</hi> and <hi>Center</hi> where the
+<hi>Mind</hi> doth pauſe:</l>
+               <l>
+                  <hi>Narcyſſus</hi> of himſelfe, himſelfe the
+<hi>Well,</hi>
+               </l>
+               <l>
+                  <hi>Louer,</hi> and <hi>Beautie</hi> that doth all excell.</l>
+               <l>Reſt happie <hi>Ghoſt,</hi> and wonder in that
+<hi>Glaſſe,</hi>
+               </l>
+               <l>Where ſeene is all that <hi>ſhall he, is,</hi> or
+<hi>was,</hi>
+               </l>
+               <l>While <hi>ſhall be, is,</hi> or <hi>was,</hi> doe paſſe away,</l>
+               <l>And nothing be, but an <hi>Eternall Day.</hi>
+               </l>
+               <l>For euer reſt, thy Praiſe <hi>Fame</hi> may enroule,</l>
+               <l>In golden Annales, while about the Pole,</l>
+               <l>The ſlow <hi>Boötes</hi> turnes, or <hi>Sunne</hi> doth ryſe</l>
+               <l>With ſcarlet Scarfe to cheare the mourning
+<hi>Skies.</hi>
+               </l>
+               <l>The Virgins to thy Tombe may Garlands beare</l>
+               <l>Of Flowres, and with each Flowre let fall a Teare.</l>
+               <l>
+                  <hi>Moeliades</hi> ſweet courtly <hi>Nymphes</hi> deplore</l>
+               <l>From <hi>Thule</hi> to <hi>Hydaſpes</hi> pearlie Shore.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <closer>
+               <signed>WILLIAM DRVMMOND.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="poem">
+            <pb facs="tcp:178349:6"/>
+            <pb facs="tcp:178349:6"/>
+            <p>
+               <figure>
+                  <figDesc>crown</figDesc>
+               </figure>
+            </p>
+            <lg>
+               <l>OF JET,</l>
+               <l>Or <hi>PORPHYRIE,</hi>
+               </l>
+               <l>Or that white Stone</l>
+               <l>
+                  <hi>PAROS</hi> affoordes alone,</l>
+               <l>Or theſe in <hi>AZVRE</hi> dye,</l>
+               <l>Which ſeem to ſcorne the <hi>SKYE;</hi>
+               </l>
+               <l>Here <hi>Memphis</hi> Wonders doe not ſet,</l>
+               <l>Nor <hi>ARTEMISIA'S</hi> huge Frame,</l>
+               <l>That keepes ſo long her Louers Name:</l>
+               <l>Make no great marble <hi>Atlas</hi> tremble with Gold</l>
+               <l>To pleaſe a <g ref="char:V">Ʋ</g>ulgar EYE that doth beholde.</l>
+               <l>The Muſes, <hi>Phoebus,</hi> Loue, haue raiſed of their teares</l>
+               <l>A Cryſtal Tomb to Him wherethrough his worth appears.</l>
+            </lg>
+         </div>
+         <div type="sonnet">
+            <pb facs="tcp:178349:7"/>
+            <pb facs="tcp:178349:7"/>
+            <p>
+               <figure>
+                  <figDesc>tomb</figDesc>
+                  <l>STay <hi>Paſſenger,</hi> ſee where encloſed lyes,</l>
+                  <l>The <hi>Paragon</hi> of Princes, faireſt
+<hi>Frame,</hi>
+                  </l>
+                  <l>
+                     <hi>Time, Nature, Place,</hi> could ſhow to mortal
+<hi>Eyes</hi>
+                  </l>
+                  <l>In <hi>Worth, Wit, Vertue, Miracle</hi> to
+<hi>Fame:</hi>
+                  </l>
+                  <l>At leſt that Part the <hi>Earth</hi> of him could clame,</l>
+                  <l>This <hi>Marble</hi> holds <hi>(hard like the Deſtinies)</hi>
+                  </l>
+                  <l>For as to his braue <hi>Spirit,</hi> and glorious
+<hi>Name,</hi>
+                  </l>
+                  <l>The One the <hi>World,</hi> the other fills the
+<hi>Skies.</hi>
+                  </l>
+                  <l>Th'immortall <hi>Amaranthus,</hi> princely
+<hi>Roſe,</hi>
+                  </l>
+                  <l>Sad <hi>Violet,</hi> and that <hi>ſweet Flowre</hi> that beares,</l>
+                  <l>In SANGVINE SPOTS the Tenor of our Woes,</l>
+                  <l>Spred on this <hi>Stone,</hi> &amp; waſh it with thy Teares,</l>
+                  <l>Then go and tell from <hi>Gades</hi> vnto <hi>Inde,</hi>
+                  </l>
+                  <l>Thou ſaw where <hi>Earths Perfections</hi> were confinde.</l>
+               </figure>
+            </p>
+         </div>
+         <div type="sonnet">
+            <pb facs="tcp:178349:8"/>
+            <pb facs="tcp:178349:8"/>
+            <head>Sonnet.</head>
+            <l>APaſsing <hi>Glance,</hi> a <hi>Lightning</hi> long the Skies</l>
+            <l>That vſh'ring Thunder dies ſtraight to our Sight,</l>
+            <l>A <hi>Sparke,</hi> of Contraries which doth ariſe,</l>
+            <l>Then's drown'd in the huge Depthes of <hi>Day</hi> and
+<hi>Night:</hi>
+            </l>
+            <l>Is this Small-ſmall cald <hi>Life,</hi> held in ſuch Price,</l>
+            <l>Of blinded <hi>Wights,</hi> who ne're judge Ought aright.</l>
+            <l>Of <hi>Parthian</hi> Shaft ſo ſwift is not the
+<hi>Flight,</hi>
+            </l>
+            <l>As <hi>Life,</hi> that waſtes it ſelfe, and liuing dies.</l>
+            <l>
+               <hi>Ah,</hi> what is humane <hi>Greatneſſe, Valour N<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi>
+            </l>
+            <l>What fading <hi>Beautie, Riches, Honour,
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi>
+            </l>
+            <l>To what doth ſerve in <hi>golden Thrones</hi> to ſit</l>
+            <l>Thrall <hi>Earths vaſte pound</hi> triumphall <hi>Arches</hi> raiſe?</l>
+            <l>That all's a <hi>Dre<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ne</hi> learne in this PRINCES Fell,</l>
+            <l>In whom ſaue <hi>Death,</hi> Nought mortall was at all.</l>
+            <closer>
+               <signed>WILLIAM DRVMMOND.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:178349:9"/>
+            <head>To the Reader.</head>
+            <p>THE <hi>Name</hi> which in theſe Verſes is giuen PRINCE HENRIE, is that which he Himſelfe in the Chal<g ref="char:EOLhyphen"/>lenges of his Martiall Sports, and Maſcarads, was wont to vſe, MOELIADES <hi>Prince of the Iſles:</hi> which in <hi>Ana<g ref="char:EOLhyphen"/>gramme</hi> maketh a <hi>VVord</hi> moſt worthie of ſuch a Knight, as He was a Knight (if <hi>Time</hi> had fuffred his Actions anſwere the Worlds exſpectation) onely worthie of ſuch a <hi>VVorde,</hi> MILES A DRO.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
